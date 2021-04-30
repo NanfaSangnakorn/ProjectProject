@@ -48,6 +48,7 @@ export default {
       style: '',
       category: '',
       zone: '',
+      myFile: '',
     };
   },
 
