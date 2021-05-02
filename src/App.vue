@@ -32,8 +32,8 @@
             </ul>
             <form class="d-flex">
 
-    <button class="btn btn-outline-success"
-    type="submit" align="right" href="/login" >Logout</button>
+            <button class="btn btn-outline-success"
+            type="submit" align="right" router-link to="/signup" >Logout</button>
           </form>
           </div>
         </div>

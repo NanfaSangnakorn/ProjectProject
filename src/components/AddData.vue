@@ -170,8 +170,7 @@
           <input type="text" v-model="updatecategory" placeholder="ประเภท (Class)" />
           <input type="text" v-model="updatezone" placeholder="บริเวณที่พบ (Zone)" />
           <input type="file" size="80px" class="form-control-file" id="myFile" />
-          <button
-            @click="
+          <button @click="
               updateContact(updatename, updatestyle, updatecategory, updatezone, updatemyFile)
             "
           >
